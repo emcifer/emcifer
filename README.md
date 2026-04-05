@@ -2,34 +2,34 @@
 
 <h2>⚙️🦾🧑🏻‍💻 Engineering Projects:</h2>
 
-ASL-Glove-Translator
+<b>ASL-Glove-Translator</b>
 
 <img width="468" height="408" alt="Screenshot 2026-03-29 192131" src="https://github.com/user-attachments/assets/f3f85120-a06a-4387-b800-7be8a77115c3" />
 
 
-Project Purpose
-- <b>The AI ASL Glove Translator was developed to gain hands-on experience with AI and explore its real-world capabilities in gesture recognition and embedded systems. Beyond learning, the project’s mission is to leverage technology to enhance global communication, enabling more inclusive interactions and inspiring future innovations in assistive devices.</b>
+<b>Project Purpose</b>
+- The AI ASL Glove Translator was developed to gain hands-on experience with AI and explore its real-world capabilities in gesture recognition and embedded systems. Beyond learning, the project’s mission is to leverage technology to enhance global communication, enabling more inclusive interactions and inspiring future innovations in assistive devices.
 
-How it works
-- <b>The glove uses embedded motion sensors (IMUs and gyroscopes) to capture hand movements and gestures in real time. This data is processed by a microcontroller running a trained machine learning model (built with Edge Impulse), which classifies the gesture into a corresponding ASL sign. The recognized sign is then converted into readable text and optionally synthesized into speech, enabling seamless communication.</b>
+<b>How it works</b>
+- The glove uses embedded motion sensors (IMUs and gyroscopes) to capture hand movements and gestures in real time. This data is processed by a microcontroller running a trained machine learning model (built with Edge Impulse), which classifies the gesture into a corresponding ASL sign. The recognized sign is then converted into readable text and optionally synthesized into speech, enabling seamless communication.
 
-What’s next
-- <b>A user-friendly interface that allows someone who doesn’t know ASL to respond.</b>
+<b>What’s next</b>
+- A user-friendly interface that allows someone who doesn’t know ASL to respond.
 
-TTS (Text-To-Speech) Converter
+<b>TTS (Text-To-Speech) Converter</b>
 
 <img width="356" height="461" alt="Screenshot 2026-03-29 180808" src="https://github.com/user-attachments/assets/d6f6468e-2148-45c0-a463-c840a34a3f99" />
 <img width="390" height="257" alt="Screenshot 2026-03-29 180640" src="https://github.com/user-attachments/assets/28bbda35-155c-43ec-b172-df60f0ec8d67" />
 
- Project Purpose
+ <b>Project Purpose</b>
 
-- <b>The PiTextReader was developed to provide an affordable, accessible solution for visually impaired individuals to read printed materials. Collaborating with CRIL (Community Resources for Independent Living), the project aimed to address real user needs, enabling greater independence and demonstrating how simple, low-cost technology can enhance accessibility.</b>
+- The PiTextReader was developed to provide an affordable, accessible solution for visually impaired individuals to read printed materials. Collaborating with CRIL (Community Resources for Independent Living), the project aimed to address real user needs, enabling greater independence and demonstrating how simple, low-cost technology can enhance accessibility.
 
-How it Works
-- <b>The device uses a Raspberry Pi and camera to capture printed text. Tesseract OCR converts the image into digital text, which is then read aloud by the Flite Text-to-Speech engine. The offline, one-button design ensures simplicity and ease of use for blind users.</b>
+<b>How it Works</b>
+- The device uses a Raspberry Pi and camera to capture printed text. Tesseract OCR converts the image into digital text, which is then read aloud by the Flite Text-to-Speech engine. The offline, one-button design ensures simplicity and ease of use for blind users.
 
-What’s Next
-- <b>Future improvements could include enhanced OCR accuracy under varied lighting, more natural-sounding speech, a smaller and more portable form factor, and additional features like multi-page reading or multi-language support.</b>
+<b>What’s Next</b>
+- Future improvements could include enhanced OCR accuracy under varied lighting, more natural-sounding speech, a smaller and more portable form factor, and additional features like multi-page reading or multi-language support.
 
 <h2> 🤳 Connect with me:</h2>
 
