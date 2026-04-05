@@ -21,6 +21,17 @@
 <img width="356" height="461" alt="Screenshot 2026-03-29 180808" src="https://github.com/user-attachments/assets/d6f6468e-2148-45c0-a463-c840a34a3f99" />
 <img width="390" height="257" alt="Screenshot 2026-03-29 180640" src="https://github.com/user-attachments/assets/28bbda35-155c-43ec-b172-df60f0ec8d67" />
 
+<b>Role assigned: Programmer</b>
+
+<b>My Contriubtions:</b>
+
+- Built rapport on site at CRIL to identify user needs.
+- Demonstrated project vision to team members
+- Troubleshooted all connectivity issues
+- Customized pre-set phonetic library to improve accuracy of Text-to-speech function
+- Assisted in assembly
+- Presentation of the whole project
+
  <b>Project Purpose</b>
 
 - The PiTextReader was developed to provide an affordable, accessible solution for visually impaired individuals to read printed materials. Collaborating with CRIL (Community Resources for Independent Living), the project aimed to address real user needs, enabling greater independence and demonstrating how simple, low-cost technology can enhance accessibility.
