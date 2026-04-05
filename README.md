@@ -35,4 +35,4 @@
 
 Email: raihan.babacarkhial.42@gmail.com
 
-Linkedin: https://linkedin.com/in/joshmadakor
+Linkedin: [https://www.linkedin.com/in/Raihan-Babacarkhial]([url](https://www.linkedin.com/in/raihan-babacarkhial-aa5b4b372/))
