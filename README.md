@@ -35,4 +35,4 @@
 
 Email: raihan.babacarkhial.42@gmail.com
 
-Linkedin: [https://www.linkedin.com/in/Raihan-Babacarkhial]([url](https://www.linkedin.com/in/raihan-babacarkhial-aa5b4b372/))
+Linkedin: [https://www.linkedin.com/in/Raihan-Babacarkhial]([https://www.linkedin.com/in/raihan-babacarkhial-aa5b4b372/])
